@@ -1,0 +1,5 @@
+numero,titlulo,ranked
+1,titanic,3
+2,avengers,4
+3,spiderman, 4.5
+4,hulk,4
